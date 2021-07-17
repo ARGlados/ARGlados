@@ -1,7 +1,7 @@
 ### Hi 👋
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arglados&show_icons=true&locale=en&layout=compact" alt="arglados" /></p>
 
-<p><h4 align="left">We develop and implement a catalog of goods with 3D models in three.js</h4></p>
+<p><h4 align="left">We develop and implement a catalog of goods with 3D models</h4></p>
 
 
 

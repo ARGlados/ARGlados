@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi 👋
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arglados&show_icons=true&locale=en&layout=compact" alt="arglados" /></p>
 
-<!--
-**ARGlados/ARGlados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><h4 align="left">We develop and implement a catalog of goods with 3D models in three.js</h4></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="left">If you have any questions or suggestions,<strong> feel free to contact us:</strong> </p>
+
+<p align="left">
+  
+<a href="https://linkedin.com/in/arglados" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/179/179330.png" alt="arglados" height="35" width="35" /> </a>&nbsp;
+  <a href="https://linkedin.com/in/arglados" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" alt="arglados" height="35" width="35" /> </a>&nbsp;
+    <a href="https://linkedin.com/in/arglados" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="arglados" height="35" width="35" /> </a>&nbsp;
+</p>
+
+
+
+
+<br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arglados&show_icons=true&locale=en" alt="arglados" /></p>

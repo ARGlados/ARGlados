@@ -10,9 +10,9 @@
 
 <p align="left">
   
-<a href="https://linkedin.com/in/arglados" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/179/179330.png" alt="arglados" height="35" width="35" /> </a>&nbsp;
-  <a href="https://linkedin.com/in/arglados" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" alt="arglados" height="35" width="35" /> </a>&nbsp;
-    <a href="https://linkedin.com/in/arglados" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="arglados" height="35" width="35" /> </a>&nbsp;
+<a href="https://www.linkedin.com/in/arglados/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/179/179330.png" alt="arglados" height="35" width="35" /> </a>&nbsp;
+  <a href="https://tglink.ru/ARGladosbot" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" alt="arglados" height="35" width="35" /> </a>&nbsp;
+    <a href="mailto:contact@arglados.ru" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="arglados" height="35" width="35" /> </a>&nbsp;
 </p>
 
 
